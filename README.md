@@ -4,7 +4,7 @@ Este é um dos primeiros projetos que realizei quando estava aprendendo a utiliz
 
 ## Acesso à Pagina
 
-- Link: 
+- Link: https://jsrwell.github.io/projeto-blog-gab/
 
 ## Tecnologias
 
