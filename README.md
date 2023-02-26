@@ -9,6 +9,7 @@ Este é um dos primeiros projetos que realizei quando estava aprendendo a utiliz
 ## Tecnologias
 
 - HTML
+- CSS
 
 ## Conteúdos
 
